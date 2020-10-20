@@ -3,7 +3,7 @@ Interactive visualization of soccer players market Value ( Predictor ) and wage 
 
 This is the mini project which I have completed on my own while practicing Data Science. The link to download rawdata set and referel links for visualization are attached below. 
 
-<a href = "https://docs.bokeh.org/en/latest/docs/user_guide/tools.html"> Bokeh</a><span><a href = "https://seaborn.pydata.org/#"> Seaborn</a></span><span><a href = "https://matplotlib.org/gallery/index.html"> MathplotLib</a></span> can be used for dataset visualization. 
+<a href = "https://docs.bokeh.org/en/latest/docs/user_guide/tools.html"> Bokeh</a>,<span><a href = "https://seaborn.pydata.org/#"> Seaborn</a></span> and <span><a href = "https://matplotlib.org/gallery/index.html">MathplotLib</a></span> can be used for dataset visualization. 
 
 
 
