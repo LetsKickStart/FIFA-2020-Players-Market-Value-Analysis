@@ -15,5 +15,4 @@ This is the mini project which I have completed on my own while practicing Data 
 <li><a href = "https://seaborn.pydata.org/#"> Seaborn(For Data Viusalization)</a></li>
 <li><a href = "https://matplotlib.org/gallery/index.html"> MathplotLib(For Data Viusalization)</a></li>
 <li><a href = "https://www.kaggle.com/karangadiya/fifa19"> Download the FIFA dataset here</a></li>
-
 </ul>
