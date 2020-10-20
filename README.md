@@ -5,7 +5,7 @@ This is the mini project which I have completed on my own while practicing Data 
 
 <a href = "https://docs.bokeh.org/en/latest/docs/user_guide/tools.html"> Bokeh</a>,<span><a href = "https://seaborn.pydata.org/#"> Seaborn</a></span> and <span><a href = "https://matplotlib.org/gallery/index.html">MathplotLib</a></span> can be used for dataset visualization. 
 
-
+<img src = "C:\Users\sreej\OneDrive\Pictures\Capture">
 
 
 <h2>Referel Links</h2>
